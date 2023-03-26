@@ -1,0 +1,19 @@
+{
+    "name": "sekolahlaravel/geodetector",
+    "description": "Package untuk get lokasi dari latitude dan longitude",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sekolahlaravel\\Geodetector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alan Sekha Yogastra",
+            "email": "alansekha1905@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
